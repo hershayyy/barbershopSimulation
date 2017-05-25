@@ -1,0 +1,2 @@
+# barbershopSimulation
+This was a homework assignment where the goal was to create a barbershop simulation to estimate the number of customers able to be serviced, the average wait time, the longest wait times a customer might experience, and how many customers, if any, might still be waiting at the close of business.  This simulation was written in Java and includes the files BarbershopSimulation.java, Barber.java, Averager.java and ArrivalRate.java
